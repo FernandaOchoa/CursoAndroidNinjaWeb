@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="title">Conversor de Unidades</string>
+    <string name="hintCm">Ingresa el valor en cm</string>
+    <string name="btnIn">in</string>
+    <string name="btnFt">ft</string>
+    <string name="btnYd">yd</string>
+    <string name="tvRes">Resultado</string>
+</resources>
