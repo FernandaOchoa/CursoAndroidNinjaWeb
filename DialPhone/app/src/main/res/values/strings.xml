@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DialPhone</string>
+    <string name="hint">Numero a Llamar</string>
+    <string name="call">Llamar</string>
+    <string name="title">NinjaWeb</string>
+    <string name="subtitle">Curso Android</string>
+    <string name="data">Numero</string>
+    <string name="btnGo">Go to</string>
+</resources>
