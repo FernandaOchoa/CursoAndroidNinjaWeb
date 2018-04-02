@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "334207970594",
+    "firebase_url": "https://cursoandroid-702ca.firebaseio.com",
+    "project_id": "cursoandroid-702ca",
+    "storage_bucket": "cursoandroid-702ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334207970594:android:49097d5ebdf52959",
+        "android_client_info": {
+          "package_name": "com.monsh.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334207970594-hondus559jovumid1kf0aa01pvn9rph8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0sbFxQdJ3zuRqzFT9EJ_YJG58uDqLca8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
